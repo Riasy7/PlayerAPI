@@ -42,9 +42,9 @@ LaLigaStats is a Spring Boot application that provides a RESTful API for retriev
 
 ## Running the Application
 1. Build the project with Maven
-  ```
-  ./mvnw clean install
-  ```
+   ```
+   ./mvnw clean install
+   ```
 2. Run the Application
    ```
    ./mvnw spring-boot:run
