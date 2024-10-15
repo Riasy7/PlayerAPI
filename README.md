@@ -1,6 +1,6 @@
-# LaLigaStats
+# Player API using REST CRUD API
 
-LaLigaStats is a Spring Boot application that provides a RESTful API for retrieving player statistics for the LaLiga Football Fantasy game.
+Spring Boot application that provides a RESTful API for retrieving player statistics using a python webscraper, a postgresql db and rest api (springboot).
 
 ## Features
 
@@ -55,9 +55,6 @@ The application will be accessible at `http://localhost:8080`.
 
 The application uses a PostgreSQL database. The database is automatically populated with some initial data at application startup. The database was populated using the data scraping program that I made to scrape LaLiga stats of players. Please refer to my other repository for the code of that program: https://github.com/Riasy7/Football-Stats-Data-Scraping
 
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 
    
