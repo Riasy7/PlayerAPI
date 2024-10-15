@@ -1,4 +1,4 @@
-# Player API using REST CRUD API
+# Player REST CRUD API
 
 Spring Boot application that provides a RESTful API for retrieving player statistics using a python webscraper, a postgresql db and rest api (springboot).
 
